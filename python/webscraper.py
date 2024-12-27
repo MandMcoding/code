@@ -1,0 +1,1 @@
+from selenium import webdriverurl =  "https://docs.google.com/forms/d/e/1FAIpQLScfmjNBRsVofl5gKTp2UrNuc9EK5F63IoVGFw1PPp1Lu8sXOg/viewform"browser = webdriver.Chrome()browser.get(url)browser.find_element_by_xpath('//*[@id="i5"]').click()
