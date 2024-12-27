@@ -1,0 +1,3 @@
+[submodule "C/casino"]
+	path = C/casino
+	url = https://github.com/MandMcoding/casino.git
