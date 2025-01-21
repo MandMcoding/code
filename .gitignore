@@ -7,3 +7,10 @@ raspberry_pi
 scratch_gigachad
 terminal
 websites
+
+.DS_Store
+._*
+
+C/donut
+*.swp
+
