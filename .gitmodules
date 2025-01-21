@@ -1,3 +1,6 @@
 [submodule "C/casino"]
 	path = C/casino
 	url = https://github.com/MandMcoding/casino.git
+[submodule "python/openAI_token_counter_cost_calculator"]
+	path = python/openAI_token_counter_cost_calculator
+	url = https://github.com/MandMcoding/openAI_token_counter_cost_calculator.git
